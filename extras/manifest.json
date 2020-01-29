@@ -1,0 +1,57 @@
+{
+    "name": "Marek Bryling",
+    "short_name": "Marek Bryling",
+    "theme_color": "#0c2646",
+    "background_color": "#ececec",
+    "display": "browser",
+    "scope": "/extras/",
+    "start_url": "http://marek.bryling.pl/extras/",
+    "icons": [
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/extras/favicons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/extras/favicons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/extras/favicons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/extras/favicons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/extras/favicons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/extras/favicons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/extras/favicons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/extras/favicons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/extras/favicons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/extras/favicons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/extras/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/extras/favicons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/extras/favicons/favicon-16x16.png">
+
+        {
+            "src": "favicons/apple-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/extras/favicons/apple-icon-76x76.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "favicons/apple-icon-120x120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "favicons/apple-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "favicons/apple-icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "favicons/apple-icon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "splash_pages": null
+}
