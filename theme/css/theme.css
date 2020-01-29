@@ -25,6 +25,10 @@
     height: 75px;
 }
 
+.navbar-brand {
+    margin-right: 0.5rem;
+}
+
 .navbar a {
     color: var(--light);
 }
@@ -33,7 +37,6 @@
     color: var(--light);
 }
 
-.sitesubtile,
 .nav-item {
     font-size: 1.5rem;
     padding-left: 2rem;
@@ -48,6 +51,7 @@
     margin-bottom: 0rem;
     margin-left: 0rem;
     padding-left: 0rem;
+    font-size: 1.2rem;
 }
 
 h1.title {
